@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>쉰소리 개인정보처리방침</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #FFFDF8;
+    --fg: #1A1A1A;
+    --sub: #55524A;
+    --line: #E5E0D3;
+    --accent: #B23B2E;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17150F;
+      --fg: #F2EFE6;
+      --sub: #B8B3A4;
+      --line: #33301F;
+      --accent: #E08066;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--fg);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    line-height: 1.7;
+    word-break: keep-all;
+    -webkit-font-smoothing: antialiased;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 32px 20px 80px;
+  }
+  header {
+    margin-bottom: 32px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--line);
+  }
+  h1 {
+    font-size: 27px;
+    line-height: 1.4;
+    margin: 0 0 8px;
+  }
+  .meta {
+    color: var(--sub);
+    font-size: 13px;
+    margin: 0;
+  }
+  h2 {
+    font-size: 20px;
+    margin: 36px 0 12px;
+    padding-top: 4px;
+  }
+  p, li {
+    font-size: 16px;
+    color: var(--fg);
+  }
+  ul {
+    margin: 8px 0;
+    padding-left: 20px;
+  }
+  li { margin-bottom: 6px; }
+  .box {
+    background: rgba(0,0,0,0.03);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin: 12px 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .box { background: rgba(255,255,255,0.04); }
+  }
+  a { color: var(--accent); }
+  .contact {
+    font-weight: 600;
+  }
+  footer {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--sub);
+  }
+  nav.top {
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+</style>
+</head>
+<body>
+<main>
+  <nav class="top"><a href="./index.html">← 정책 안내로 돌아가기</a></nav>
+  <header>
+    <h1>쉰소리 개인정보처리방침</h1>
+    <p class="meta">시행일: 2026년 8월 23일</p>
+  </header>
+
+  <p>쉰소리는 아재개그·언어유희를 즐기는 앱입니다. 이 문서는 앱을 쓰는 동안 어떤 정보를 모으고, 모으지 않고, 어떻게 보관하고 지우는지 설명합니다.</p>
+
+  <h2>1. 수집하는 정보</h2>
+  <p>쉰소리는 회원가입 없이 동작합니다. 앱을 쓰는 동안 아래 네 가지만 모읍니다.</p>
+  <div class="box">
+    <ul>
+      <li><strong>기기 식별자</strong>: 앱을 처음 실행할 때 앱이 스스로 만드는 32자리 임의의 값입니다. 광고 식별자가 아니며, 다른 앱이나 회사와 연결되지 않습니다.</li>
+      <li><strong>닉네임</strong>: 이용자가 직접 설정한 경우에만 저장합니다. 설정하지 않으면 저장되지 않습니다.</li>
+      <li><strong>제출한 쉰소리</strong>: 이용자가 직접 작성해 올린 문제와 정답 본문입니다.</li>
+      <li><strong>하트와 아재력 점수</strong>: 어떤 쉰소리에 하트를 눌렀는지, 게임에서 얻은 점수입니다.</li>
+    </ul>
+  </div>
+
+  <h2>2. 수집하지 않는 정보</h2>
+  <p>아래 정보는 쉰소리 앱 어디에서도 수집하지 않습니다.</p>
+  <div class="box">
+    <ul>
+      <li>이름, 이메일, 전화번호</li>
+      <li>위치 정보</li>
+      <li>연락처(주소록)</li>
+      <li>사진, 카메라, 마이크</li>
+      <li>광고 식별자(IDFA 등). 광고를 위한 추적을 하지 않습니다.</li>
+    </ul>
+  </div>
+
+  <h2>3. 정보를 쓰는 목적</h2>
+  <p>모은 정보는 오직 앱 기능을 동작시키는 데에만 씁니다. 내가 올린 쉰소리 표시, 하트·아재력 점수 랭킹 집계, 닉네임 중복 방지가 전부입니다. 광고 타깃팅이나 다른 목적으로 쓰지 않습니다.</p>
+
+  <h2>4. 제3자 제공</h2>
+  <p>수집한 정보를 외부 업체나 제3자에게 팔거나 제공하지 않습니다. 데이터를 저장하는 서버(Supabase)는 쉰소리 서비스 운영을 위한 인프라일 뿐, 별도의 마케팅이나 분석 목적으로 접근하지 않습니다.</p>
+
+  <h2>5. 보관 기간과 삭제</h2>
+  <p>수집한 정보는 이용자가 앱을 쓰는 동안 보관됩니다. 앱 설정 화면의 <strong>"내 데이터 지우기"</strong>를 누르면 닉네임, 제출한 쉰소리, 하트 기록, 점수를 포함한 모든 정보가 서버와 기기 양쪽에서 즉시 삭제됩니다. 삭제 후에는 새 기기 식별자가 발급되어 이전 활동과 연결되지 않습니다.</p>
+
+  <h2>6. 이용자 연령</h2>
+  <p>쉰소리는 별도의 개인정보(이름·이메일 등)를 요구하지 않지만, 이용자가 직접 글을 올리는 기능이 있어 <strong>만 13세 이상 이용을 권장</strong>합니다.</p>
+
+  <h2>7. 문의처</h2>
+  <p>개인정보와 관련해 궁금한 점이나 삭제 요청이 있으면 아래로 연락해 주세요.</p>
+  <p class="contact">이메일: <a href="mailto:juicynj@gmail.com">juicynj@gmail.com</a></p>
+
+  <h2>8. 개정 이력</h2>
+  <ul>
+    <li>2026-08-23: 최초 시행</li>
+  </ul>
+
+  <footer>
+    쉰소리 · <a href="./moderation.html">모더레이션 정책 보기</a>
+  </footer>
+</main>
+</body>
+</html>
