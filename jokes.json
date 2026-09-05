@@ -1,0 +1,2813 @@
+{
+  "version": "2026-09-05T07:58:03Z",
+  "categories": [
+    {
+      "id": "ajae",
+      "label": "아재개그"
+    },
+    {
+      "id": "nonsense",
+      "label": "넌센스퀴즈"
+    },
+    {
+      "id": "bujang",
+      "label": "부장님개그"
+    },
+    {
+      "id": "wordplay",
+      "label": "초성·말장난"
+    }
+  ],
+  "jokes": [
+    {
+      "id": "j001",
+      "category": "ajae",
+      "q": "고양이가 지옥에 가면?",
+      "a": "헬로키티",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j002",
+      "category": "ajae",
+      "q": "왕이 넘어지면?",
+      "a": "킹콩",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j003",
+      "category": "ajae",
+      "q": "딸기가 직장에서 잘리면?",
+      "a": "딸기시럽",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j004",
+      "category": "ajae",
+      "q": "세상에서 가장 가난한 왕은?",
+      "a": "최저임금",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j005",
+      "category": "ajae",
+      "q": "김밥이 죽으면 가는 곳은?",
+      "a": "김밥천국",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j006",
+      "category": "ajae",
+      "q": "도둑이 가장 싫어하는 아이스크림은?",
+      "a": "누가바",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j007",
+      "category": "ajae",
+      "q": "콩 한 알을 영어로 하면?",
+      "a": "원빈",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j008",
+      "category": "ajae",
+      "q": "바나나가 웃으면?",
+      "a": "바나나킥",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j009",
+      "category": "ajae",
+      "q": "노인들이 가장 좋아하는 폭포는?",
+      "a": "나이아가라",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j010",
+      "category": "ajae",
+      "q": "미국에서 비가 내리면?",
+      "a": "USB",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j011",
+      "category": "ajae",
+      "q": "신사가 자기소개를 하면?",
+      "a": "신사임당",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j012",
+      "category": "ajae",
+      "q": "오이가 무를 때리면?",
+      "a": "오이무침",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j013",
+      "category": "ajae",
+      "q": "세상에서 가장 뜨거운 과일은?",
+      "a": "천도복숭아",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j014",
+      "category": "ajae",
+      "q": "세상에서 제일 큰 코는?",
+      "a": "멕시코",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j015",
+      "category": "ajae",
+      "q": "칼이 정색하면?",
+      "a": "검은색",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j016",
+      "category": "ajae",
+      "q": "전화기로만 세운 건물은?",
+      "a": "콜로세움",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j017",
+      "category": "ajae",
+      "q": "무가 눈물을 흘리면?",
+      "a": "무뚝뚝",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j018",
+      "category": "ajae",
+      "q": "빌게이츠는 노래방에서 노래를 어떻게 부를까?",
+      "a": "마이크로 소프트하게",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j019",
+      "category": "ajae",
+      "q": "왼쪽으로 절을 하면?",
+      "a": "좌절",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j020",
+      "category": "ajae",
+      "q": "과자가 자기소개를 하면?",
+      "a": "전과자",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j021",
+      "category": "ajae",
+      "q": "피자가 놀라면?",
+      "a": "피자헛",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j022",
+      "category": "ajae",
+      "q": "차를 톡 건드리면?",
+      "a": "카톡",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j023",
+      "category": "ajae",
+      "q": "맥주가 죽기 전에 남긴 말은?",
+      "a": "유언비어",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j024",
+      "category": "ajae",
+      "q": "송해 할아버지가 목욕을 하고 나오시면?",
+      "a": "뽀송뽀송해",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j062",
+      "category": "ajae",
+      "q": "왕이 궁에 들어가기 싫을 때 하는 말은?",
+      "a": "궁시렁 궁시렁",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j107",
+      "category": "ajae",
+      "q": "소가 웃는 소리는?",
+      "a": "우습소",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j134",
+      "category": "ajae",
+      "q": "미소의 반대말은?",
+      "a": "당기소",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j136",
+      "category": "ajae",
+      "q": "아몬드가 죽으면?",
+      "a": "다이아몬드",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j172",
+      "category": "ajae",
+      "q": "세상에서 가장 비싼 새는?",
+      "a": "백조",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j191",
+      "category": "ajae",
+      "q": "세상에서 가장 큰 학은?",
+      "a": "대학",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j025",
+      "category": "ajae",
+      "q": "이집트에서 못 먹는 만두 이름은?",
+      "a": "카트만두",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j026",
+      "category": "ajae",
+      "q": "물고기 중에 가장 기억력이 안 좋은 물고기는?",
+      "a": "가물치",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j027",
+      "category": "ajae",
+      "q": "사과를 한 입 베어물면 다른 과일이 된다. 어떤 과일일까?",
+      "a": "파인애플",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j028",
+      "category": "ajae",
+      "q": "청바지를 돋보이게 하는 걸음걸이는?",
+      "a": "진주목걸이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j029",
+      "category": "ajae",
+      "q": "무가 자기소개할 때 하는 말은?",
+      "a": "나무",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j030",
+      "category": "ajae",
+      "q": "천하장사가 타고 다니는 차는?",
+      "a": "으랏차차",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j031",
+      "category": "ajae",
+      "q": "얼음이 죽으면?",
+      "a": "다이빙",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j032",
+      "category": "ajae",
+      "q": "곰돌이 푸가 차에 치이면?",
+      "a": "카푸치노",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j033",
+      "category": "ajae",
+      "q": "가수 설운도가 옷 벗는 순서는?",
+      "a": "상하의",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j034",
+      "category": "ajae",
+      "q": "세상에서 가장 예쁜 식물은?",
+      "a": "뷰티풀",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j035",
+      "category": "ajae",
+      "q": "바람이 귀엽게 부는 지역은?",
+      "a": "분당",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j036",
+      "category": "ajae",
+      "q": "로버트 할리가 심은 나무 이름은?",
+      "a": "할리우드",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j037",
+      "category": "ajae",
+      "q": "감기에 다시 걸리면?",
+      "a": "되감기",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j038",
+      "category": "ajae",
+      "q": "결혼한 복숭아를 네 글자로 표현하면?",
+      "a": "웨딩피치",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j039",
+      "category": "ajae",
+      "q": "깨가 죽으면?",
+      "a": "주근깨",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j040",
+      "category": "ajae",
+      "q": "잘생긴 부처님을 다른 말로?",
+      "a": "부처핸섬",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j041",
+      "category": "ajae",
+      "q": "창문을 깼는데 피가 안 나면?",
+      "a": "윈도우XP",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j042",
+      "category": "ajae",
+      "q": "칠판이 웃으면?",
+      "a": "킥보드",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j044",
+      "category": "ajae",
+      "q": "63빌딩에서 떨어져도 사는 방법은?",
+      "a": "1층에서 떨어진다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j045",
+      "category": "ajae",
+      "q": "새우가 등장하는 드라마는?",
+      "a": "대하드라마",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j046",
+      "category": "ajae",
+      "q": "도둑이 싫어하는 과자는?",
+      "a": "누네띠네",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j047",
+      "category": "ajae",
+      "q": "모자가 놀라면?",
+      "a": "모자이크",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j048",
+      "category": "ajae",
+      "q": "아기공룡 둘리가 좋아하는 전은?",
+      "a": "일 억 년 전",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j049",
+      "category": "ajae",
+      "q": "해와 달 중, 해만 취재하는 사람은?",
+      "a": "해리포터",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j050",
+      "category": "ajae",
+      "q": "생각을 많이 하는 왕은?",
+      "a": "띵킹",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j051",
+      "category": "ajae",
+      "q": "누룽지를 영어로 하면?",
+      "a": "바비브라운",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j052",
+      "category": "ajae",
+      "q": "차를 발로 차면?",
+      "a": "카놀라유",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j053",
+      "category": "ajae",
+      "q": "이병헌이 나온 대학은?",
+      "a": "단언컨대",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j054",
+      "category": "ajae",
+      "q": "못에서 피가 나는 이유는?",
+      "a": "모세혈관이 있어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j055",
+      "category": "ajae",
+      "q": "사슴이 눈이 좋으면?",
+      "a": "굿아이디어",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j056",
+      "category": "ajae",
+      "q": "피카츄가 담배를 주우며 하는 말은?",
+      "a": "피까",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j057",
+      "category": "ajae",
+      "q": "감자가 의문을 품으면?",
+      "a": "웨지감자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j058",
+      "category": "ajae",
+      "q": "탄산이 요리를 하면?",
+      "a": "베이킹소다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j059",
+      "category": "ajae",
+      "q": "안녕을 다섯 번 말하면?",
+      "a": "하이파이브",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j060",
+      "category": "ajae",
+      "q": "물고기 중 가장 열심히 공부한 물고기는?",
+      "a": "닥터피시",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j061",
+      "category": "ajae",
+      "q": "수학자들이 가장 좋아하는 보석은?",
+      "a": "사파이어",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j063",
+      "category": "ajae",
+      "q": "행운이 전화기 위에 떨어지면?",
+      "a": "전화위복",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j064",
+      "category": "ajae",
+      "q": "꽁꽁 얼어버린 신발을 소가 신으면?",
+      "a": "소신발언",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j065",
+      "category": "ajae",
+      "q": "청바지가 몸에 해로우면?",
+      "a": "유해진",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j066",
+      "category": "ajae",
+      "q": "원숭이를 불에 구우면?",
+      "a": "구운몽",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j067",
+      "category": "ajae",
+      "q": "소나무가 삐치면?",
+      "a": "칫솔",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j068",
+      "category": "ajae",
+      "q": "고양이를 싫어하는 동물은?",
+      "a": "미어캣",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j069",
+      "category": "ajae",
+      "q": "추장보다 높은 사람은?",
+      "a": "고추장",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j070",
+      "category": "ajae",
+      "q": "우주인들이 술 마시는 곳은?",
+      "a": "스페이스바",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j071",
+      "category": "ajae",
+      "q": "꽃가게 사장님이 가장 싫어하는 도시는?",
+      "a": "시드니",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j072",
+      "category": "ajae",
+      "q": "화장실에서 방금 나온 사람은?",
+      "a": "일본사람",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j073",
+      "category": "ajae",
+      "q": "남 등쳐먹고 사는 사람은?",
+      "a": "안마사",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j074",
+      "category": "ajae",
+      "q": "쥐가 폭풍 속으로 들어가면?",
+      "a": "폭풍간쥐",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j075",
+      "category": "ajae",
+      "q": "가장 달콤한 술은?",
+      "a": "입술",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j076",
+      "category": "ajae",
+      "q": "호주에서 쓰는 돈은?",
+      "a": "호주머니",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j077",
+      "category": "ajae",
+      "q": "쥐가 네 마리 모이면?",
+      "a": "쥐포",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j078",
+      "category": "ajae",
+      "q": "도둑이 가장 좋아하는 아이스크림은?",
+      "a": "보석바",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j079",
+      "category": "ajae",
+      "q": "곰돌이 푸가 넘어지면?",
+      "a": "쿵푸",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j080",
+      "category": "ajae",
+      "q": "설탕이 놀라면?",
+      "a": "이럴슈가",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j082",
+      "category": "ajae",
+      "q": "비가 한 시간 동안 오면?",
+      "a": "추적 60분",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j083",
+      "category": "ajae",
+      "q": "고추잠자리를 두 글자로 줄이면?",
+      "a": "팬티",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j084",
+      "category": "ajae",
+      "q": "스님들이 걱정하지 않아도 되는 병은?",
+      "a": "탈모",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j085",
+      "category": "ajae",
+      "q": "전 세계에서 회를 가장 잘 뜨는 곳은?",
+      "a": "회전문",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j086",
+      "category": "ajae",
+      "q": "세상에서 가장 야한 음식은?",
+      "a": "버섯",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j087",
+      "category": "ajae",
+      "q": "무슬림들이 다 날씬한 이유는?",
+      "a": "무(無)슬림이라서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j088",
+      "category": "ajae",
+      "q": "택시기사가 가장 좋아하는 동물은?",
+      "a": "호랑이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j089",
+      "category": "ajae",
+      "q": "계속 거짓말을 하는 사람은?",
+      "a": "또라이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j090",
+      "category": "ajae",
+      "q": "참기름을 못 먹는 이유는?",
+      "a": "고소공포증이 있어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j091",
+      "category": "ajae",
+      "q": "길에서 총을 쏘면?",
+      "a": "탕웨이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j094",
+      "category": "ajae",
+      "q": "매일 시험을 봐도 빵점만 맞는 연예인은?",
+      "a": "백지영",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j096",
+      "category": "ajae",
+      "q": "보내기 싫으면?",
+      "a": "가위나 바위를 낸다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j097",
+      "category": "ajae",
+      "q": "새로 나온 욕은?",
+      "a": "뉴욕",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j098",
+      "category": "ajae",
+      "q": "소가 상경하면?",
+      "a": "소설가",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j099",
+      "category": "ajae",
+      "q": "닭이 스키니진을 입으면?",
+      "a": "꼭끼오",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j100",
+      "category": "ajae",
+      "q": "곰돌이 푸가 여러 마리 있으면?",
+      "a": "푸들",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j101",
+      "category": "ajae",
+      "q": "석유가 우리나라까지 도착하는 시간은?",
+      "a": "오일(5일)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j102",
+      "category": "ajae",
+      "q": "허수아비의 아들 이름은?",
+      "a": "허수",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j103",
+      "category": "ajae",
+      "q": "장사꾼들이 싫어하는 경기는?",
+      "a": "불경기",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j104",
+      "category": "ajae",
+      "q": "말은 말인데 탈 수 없는 말은?",
+      "a": "거짓말",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j105",
+      "category": "ajae",
+      "q": "귀는 귀인데 못 듣는 귀는?",
+      "a": "뼈다귀",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j106",
+      "category": "ajae",
+      "q": "스타들이 싸우면?",
+      "a": "스타워즈",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j108",
+      "category": "ajae",
+      "q": "발이 두 개 달린 소는?",
+      "a": "이발소",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j109",
+      "category": "ajae",
+      "q": "세균 중의 대장은?",
+      "a": "대장균",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j110",
+      "category": "ajae",
+      "q": "가장 쓸모없는 구리는?",
+      "a": "멍텅구리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j111",
+      "category": "ajae",
+      "q": "술집에서 술값 안 내려고 추는 춤은?",
+      "a": "주춤주춤",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j112",
+      "category": "ajae",
+      "q": "도둑이 훔친 돈을 세 글자로?",
+      "a": "슬그머니",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j113",
+      "category": "ajae",
+      "q": "떡은 떡인데 못 먹는 떡은?",
+      "a": "그림의 떡",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j114",
+      "category": "ajae",
+      "q": "감은 감인데 못 먹는 감은?",
+      "a": "영감",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j115",
+      "category": "ajae",
+      "q": "지진났을 때 절대 부르면 안 되는 노래는?",
+      "a": "동요",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j116",
+      "category": "ajae",
+      "q": "애플에서 만드는 술은?",
+      "a": "맥주",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j117",
+      "category": "ajae",
+      "q": "세상에서 가장 잔인한 비빔밥은?",
+      "a": "산채비빔밥",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j118",
+      "category": "ajae",
+      "q": "토끼가 가장 잘하는 것은?",
+      "a": "토끼기",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j119",
+      "category": "ajae",
+      "q": "중학생과 고등학생이 타는 차는?",
+      "a": "중고차",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j120",
+      "category": "ajae",
+      "q": "짱구와 오징어의 차이점은?",
+      "a": "오징어는 말리지만 짱구는 못 말려",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j121",
+      "category": "ajae",
+      "q": "세상에서 가장 착한 사자는?",
+      "a": "자원봉사자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j122",
+      "category": "ajae",
+      "q": "바닷가에서 하는 욕은?",
+      "a": "해수욕",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j123",
+      "category": "ajae",
+      "q": "학생들이 싫어하는 피자는?",
+      "a": "책피자(책 피자)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j124",
+      "category": "ajae",
+      "q": "텔레토비가 차린 안경점 이름은?",
+      "a": "아이좋아",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j125",
+      "category": "ajae",
+      "q": "계절에 관계없이 항상 피는 꽃은?",
+      "a": "웃음꽃",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j126",
+      "category": "ajae",
+      "q": "소금장수가 좋아하는 사람은?",
+      "a": "싱거운 사람",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j127",
+      "category": "ajae",
+      "q": "탤런트 최지우가 기르는 개는?",
+      "a": "지우개",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j128",
+      "category": "ajae",
+      "q": "병아리가 먹는 약은?",
+      "a": "삐약",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j129",
+      "category": "ajae",
+      "q": "세상에서 가장 빠른 닭은?",
+      "a": "후다닥",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j130",
+      "category": "ajae",
+      "q": "세 명만 탈 수 있는 차는?",
+      "a": "인삼차",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j131",
+      "category": "ajae",
+      "q": "가장 급하게 만들어 먹는 떡은?",
+      "a": "헐레벌떡",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j132",
+      "category": "ajae",
+      "q": "가장 먼저 자는 가수는?",
+      "a": "이미자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j133",
+      "category": "ajae",
+      "q": "돌고래는 영어로 돌핀, 그럼 고래는?",
+      "a": "핀",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j135",
+      "category": "ajae",
+      "q": "물고기의 반대말은?",
+      "a": "불고기",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j137",
+      "category": "ajae",
+      "q": "다 자랐는데 자라라고 하는 것은?",
+      "a": "자라",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j138",
+      "category": "ajae",
+      "q": "남이 먹어야 맛있는 탕은?",
+      "a": "골탕",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j139",
+      "category": "ajae",
+      "q": "인도는 몇 시일까?",
+      "a": "네시(비둘기 시늉)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j140",
+      "category": "ajae",
+      "q": "아빠가 두 명, 엄마가 한 명이면?",
+      "a": "두부한모",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j141",
+      "category": "ajae",
+      "q": "사리가 죽으면?",
+      "a": "고사리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j142",
+      "category": "ajae",
+      "q": "트와이스가 쇼핑하러 가면?",
+      "a": "모모 사나",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j144",
+      "category": "ajae",
+      "q": "곰이 사과를 먹는 방법은?",
+      "a": "베어 먹는다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j145",
+      "category": "ajae",
+      "q": "오래 살 것 같은 연예인은?",
+      "a": "이승기",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j146",
+      "category": "ajae",
+      "q": "세상에서 가장 예쁜 돌은?",
+      "a": "샤론 스톤",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j147",
+      "category": "ajae",
+      "q": "야구 선수가 왕한테 공을 던지며 하는 말은?",
+      "a": "송구하옵니다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j148",
+      "category": "ajae",
+      "q": "논리적인 사람이 총을 쏘면 나는 소리는?",
+      "a": "타당 타당",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j150",
+      "category": "ajae",
+      "q": "아마존엔 누가 살까?",
+      "a": "존",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j151",
+      "category": "ajae",
+      "q": "좀비는 왜 멍청할까?",
+      "a": "머리가 좀 비어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j153",
+      "category": "ajae",
+      "q": "가수 임창정이 좋아하는 엿은?",
+      "a": "문을여시오",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j154",
+      "category": "ajae",
+      "q": "단무지가 버스에서 하는 말은?",
+      "a": "저 무임승차할게요",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j155",
+      "category": "ajae",
+      "q": "고등학생이 가장 싫어하는 나무는?",
+      "a": "야자나무",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j156",
+      "category": "ajae",
+      "q": "사람이 항상 가지고 다니는 흉기는?",
+      "a": "머리칼",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j157",
+      "category": "ajae",
+      "q": "오리를 생으로 먹으면?",
+      "a": "회오리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j158",
+      "category": "ajae",
+      "q": "햄버거는 무슨 색?",
+      "a": "버건디",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j159",
+      "category": "ajae",
+      "q": "오리가 얼면?",
+      "a": "언덕",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j160",
+      "category": "ajae",
+      "q": "우유가 넘어지면?",
+      "a": "아야",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j161",
+      "category": "ajae",
+      "q": "베를린 음식이 위험한 이유는?",
+      "a": "독(일)이 들어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j162",
+      "category": "ajae",
+      "q": "우유가 아프면?",
+      "a": "앙팡",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j163",
+      "category": "ajae",
+      "q": "사오정이 다니는 고등학교는?",
+      "a": "뭐라고고",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j164",
+      "category": "ajae",
+      "q": "숫자 5가 가장 싫어하는 건물은?",
+      "a": "오페라하우스",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j165",
+      "category": "ajae",
+      "q": "치아가 예쁜 연예인은?",
+      "a": "이보영",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j166",
+      "category": "ajae",
+      "q": "세상에서 가장 장사를 잘하는 동물은?",
+      "a": "판다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j167",
+      "category": "ajae",
+      "q": "어린 물고기를 두 글자로 하면?",
+      "a": "영어",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j168",
+      "category": "ajae",
+      "q": "입이 S자로 되어있으면?",
+      "a": "EBS",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j169",
+      "category": "ajae",
+      "q": "프랑스에서 먹는 라면이 맛없는 이유는?",
+      "a": "다 불어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j170",
+      "category": "ajae",
+      "q": "징을 놀랍도록 세게 치면?",
+      "a": "어메이징",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j171",
+      "category": "ajae",
+      "q": "누구나 즐겁게 읽는 글은?",
+      "a": "싱글벙글",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j173",
+      "category": "ajae",
+      "q": "송해가 믿는 종교는?",
+      "a": "송혜교",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j174",
+      "category": "ajae",
+      "q": "세상에서 가장 싸움을 잘하는 나라는?",
+      "a": "칠레",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j175",
+      "category": "ajae",
+      "q": "파리가 병원에 간 이유는?",
+      "a": "팔이 아파서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j176",
+      "category": "ajae",
+      "q": "모기가 병원에 간 이유는?",
+      "a": "목이 아파서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j177",
+      "category": "ajae",
+      "q": "진정한 프로의 자세는?",
+      "a": "프로포즈",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j178",
+      "category": "ajae",
+      "q": "딸기가 수업에 안 오면?",
+      "a": "딸기쨈",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j179",
+      "category": "ajae",
+      "q": "차두리가 불에 타면?",
+      "a": "두리번 두리번",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j180",
+      "category": "ajae",
+      "q": "잘생긴 가위는?",
+      "a": "핸섬가이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j181",
+      "category": "ajae",
+      "q": "식인종이 우사인볼트를 보면?",
+      "a": "패스트푸드",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j182",
+      "category": "ajae",
+      "q": "먹으면 죽는데 안 먹을 수 없는 것은?",
+      "a": "나이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j184",
+      "category": "ajae",
+      "q": "파마한 사람이 한 명도 없으면?",
+      "a": "무파마",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j185",
+      "category": "ajae",
+      "q": "아우디보다 먼저 나온 차는?",
+      "a": "형디",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j186",
+      "category": "ajae",
+      "q": "전주비빔밥의 반대말은?",
+      "a": "이번주 비빔밥",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j187",
+      "category": "ajae",
+      "q": "애처가와 공처가의 공통점은?",
+      "a": "둘 다 남자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j188",
+      "category": "ajae",
+      "q": "소변과 대변 중 어느 것이 먼저 나오나?",
+      "a": "급한 거 먼저",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j192",
+      "category": "ajae",
+      "q": "곰돌이 푸가 가장 싫어하는 동물은?",
+      "a": "아기 염소",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j193",
+      "category": "ajae",
+      "q": "뽑으면 우는 식물은?",
+      "a": "우엉",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j194",
+      "category": "ajae",
+      "q": "옥수수가 시험을 치면?",
+      "a": "콘테스트",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j195",
+      "category": "ajae",
+      "q": "유비가 두 명 있으면?",
+      "a": "이유비",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j196",
+      "category": "ajae",
+      "q": "유비가 네 명 있으면?",
+      "a": "유비쿼터스",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j199",
+      "category": "ajae",
+      "q": "소금이 죽으면?",
+      "a": "죽염",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j043",
+      "category": "ajae",
+      "q": "고양이가 놀라면?",
+      "a": "캣츠",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j092",
+      "category": "ajae",
+      "q": "63빌딩보다 높은 사람은?",
+      "a": "고층빌딩 관리인",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j093",
+      "category": "ajae",
+      "q": "고양이가 좋아하는 마트는?",
+      "a": "야옹마트",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j095",
+      "category": "ajae",
+      "q": "전화기로 세운 건물의 다른 이름은?",
+      "a": "콜센터",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j143",
+      "category": "ajae",
+      "q": "몸에 좋은 껌은?",
+      "a": "웰빙껌",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j149",
+      "category": "ajae",
+      "q": "속눈썹이 많이 모이는 서버는?",
+      "a": "속기 쉬운 서버",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j190",
+      "category": "ajae",
+      "q": "탤런트 최지우 말고 배우들이 기르는 개는?",
+      "a": "예쁘개",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j197",
+      "category": "ajae",
+      "q": "자가용의 반대말은?",
+      "a": "남의 차",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j200",
+      "category": "ajae",
+      "q": "가수 임창정 말고 요즘 뜨는 엿은?",
+      "a": "엿듣기",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j271",
+      "category": "bujang",
+      "q": "3월에 대학생들이 유독 강한 이유는?",
+      "a": "개강해서",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j276",
+      "category": "bujang",
+      "q": "대통령 선거의 반대말은?",
+      "a": "대통령 앉은 거",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j277",
+      "category": "bujang",
+      "q": "여자는 무드에 약하고, 남자는?",
+      "a": "누드에 약하다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j278",
+      "category": "bujang",
+      "q": "기독교 신자들이 가장 좋아하는 라면은?",
+      "a": "주님과 함께라면",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j279",
+      "category": "bujang",
+      "q": "세상에서 가장 달콤한 라면은?",
+      "a": "그대와 함께라면",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j280",
+      "category": "bujang",
+      "q": "언제나 말다툼이 있는 곳은?",
+      "a": "경마장",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j281",
+      "category": "bujang",
+      "q": "배울 것 다 배워도 여전히 배우라는 말을 듣는 사람은?",
+      "a": "배우",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j282",
+      "category": "bujang",
+      "q": "사람들이 가장 싫어하는 거리는?",
+      "a": "걱정거리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j283",
+      "category": "bujang",
+      "q": "세상 사람들이 가장 좋아하는 영화는?",
+      "a": "부귀영화",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j284",
+      "category": "bujang",
+      "q": "사람의 몸무게가 가장 많이 나갈 때는?",
+      "a": "철들 때",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j285",
+      "category": "bujang",
+      "q": "회식 자리에서 부장님이 가장 좋아하는 노래방 곡은?",
+      "a": "지못미(반전 없음, 그냥 정말 자주 부름)",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j286",
+      "category": "bujang",
+      "q": "월급날 부장님이 가장 자주 하는 말은?",
+      "a": "밥은 먹고 다니냐",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j287",
+      "category": "bujang",
+      "q": "회의 시작 전 부장님이 꼭 하는 개그는?",
+      "a": "오늘 회의, 회 좋아하나?",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j288",
+      "category": "bujang",
+      "q": "야근하는 직원에게 부장님이 하는 위로는?",
+      "a": "나 때는 더했어",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j289",
+      "category": "bujang",
+      "q": "부장님이 회식에서 2차를 부르는 다른 말은?",
+      "a": "가볍게 한 잔 더",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j290",
+      "category": "bujang",
+      "q": "신입사원이 가장 무서워하는 사자성어는?",
+      "a": "부장호출",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j291",
+      "category": "bujang",
+      "q": "명절에 친척이 제일 많이 하는 질문 두 글자는?",
+      "a": "취업",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j292",
+      "category": "bujang",
+      "q": "설날에 세뱃돈 대신 주는 아재개그의 이름은?",
+      "a": "덕담개그",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j293",
+      "category": "bujang",
+      "q": "고스톱 칠 때 부장님이 가장 좋아하는 패는?",
+      "a": "월급날 패",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j294",
+      "category": "bujang",
+      "q": "제사상에 아재개그를 올리면?",
+      "a": "조상님도 피식",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j295",
+      "category": "bujang",
+      "q": "소주 한 잔에 아재개그 하나, 이걸 세 글자로 하면?",
+      "a": "술안주",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j296",
+      "category": "bujang",
+      "q": "회식 2차 노래방에서 부장님 18번은?",
+      "a": "부장님 18번(정말 그 노래)",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j297",
+      "category": "bujang",
+      "q": "퇴근 시간에 부장님이 갑자기 하는 말은?",
+      "a": "간단히 한잔 어때?",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j298",
+      "category": "bujang",
+      "q": "명절 잔소리를 미리 막는 방법은?",
+      "a": "아재개그로 선빵",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j299",
+      "category": "bujang",
+      "q": "부장님이 신입사원에게 던지는 첫 개그의 이름은?",
+      "a": "국룰개그",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j300",
+      "category": "bujang",
+      "q": "송년회에서 가장 많이 나오는 건배사는?",
+      "a": "위하여(그리고 아재개그)",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j321",
+      "category": "bujang",
+      "q": "회식날 부장님이 정시 퇴근하면?",
+      "a": "다들 의심한다",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j322",
+      "category": "bujang",
+      "q": "부장님 개그에 안 웃으면 생기는 일은?",
+      "a": "찍힌다",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j323",
+      "category": "bujang",
+      "q": "명절에 큰집 가는 길이 막히는 걸 세 글자로?",
+      "a": "민족대이동",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j324",
+      "category": "bujang",
+      "q": "연봉협상 자리에서 부장님이 자주 하는 말은?",
+      "a": "다음에 잘하면 올려줄게",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j201",
+      "category": "nonsense",
+      "q": "세상에서 제일 긴 음식의 이름은?",
+      "a": "참기름",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j202",
+      "category": "nonsense",
+      "q": "밤에 성시경이 두 명 있으면?",
+      "a": "야간투시경",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j204",
+      "category": "nonsense",
+      "q": "중국집은 지금 몇 시, 몇 분일까?",
+      "a": "짜장면 시키신 분",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j225",
+      "category": "nonsense",
+      "q": "세상에서 가장 쉬운 숫자는?",
+      "a": "190,000",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j205",
+      "category": "nonsense",
+      "q": "전화기가 무서우면?",
+      "a": "무선전화",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j206",
+      "category": "nonsense",
+      "q": "계속 아니라고만 하는 사람은?",
+      "a": "부인",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j207",
+      "category": "nonsense",
+      "q": "못 사온다고 해놓고 사 온 것은?",
+      "a": "못",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j208",
+      "category": "nonsense",
+      "q": "싸움을 잘하는 오리는?",
+      "a": "을지문덕",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j209",
+      "category": "nonsense",
+      "q": "비 친구가 사우디 아냐고 물어볼 때 하는 말은?",
+      "a": "사우디아라비아",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j210",
+      "category": "nonsense",
+      "q": "이 세상에서 가장 뜨거운 바다는?",
+      "a": "열받아",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j211",
+      "category": "nonsense",
+      "q": "슬픈 사람들끼리 모여서 노는 것은?",
+      "a": "유유상종",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j212",
+      "category": "nonsense",
+      "q": "사과가 웃으면?",
+      "a": "풋사과",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j213",
+      "category": "nonsense",
+      "q": "독수리가 불에 타면 어떤 소리가 날까?",
+      "a": "이글이글",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j214",
+      "category": "nonsense",
+      "q": "망칠수록 돈을 버는 사람은?",
+      "a": "어부",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j215",
+      "category": "nonsense",
+      "q": "교회에 가면 주는 돈은?",
+      "a": "구원",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j216",
+      "category": "nonsense",
+      "q": "왕과 처음 만날 때 하는 인사는?",
+      "a": "하이킹",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j217",
+      "category": "nonsense",
+      "q": "직접 만든 총은?",
+      "a": "손수건",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j218",
+      "category": "nonsense",
+      "q": "돌하르방이 서커스단을 보고 하는 말은?",
+      "a": "제주도 좋다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j219",
+      "category": "nonsense",
+      "q": "우리나라까지 석유가 도착하는데 걸리는 시간은?",
+      "a": "5일(오일)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j220",
+      "category": "nonsense",
+      "q": "형제 중에 곱슬머리가 있다를 다른 말로 하면?",
+      "a": "브로컬리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j221",
+      "category": "nonsense",
+      "q": "아마추어의 반대말은?",
+      "a": "확실히 추워",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j222",
+      "category": "nonsense",
+      "q": "사람이 죽지 않는 산맥의 이름은?",
+      "a": "안데스",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j223",
+      "category": "nonsense",
+      "q": "비가 빅뱅에 안 들어간 이유는?",
+      "a": "태양을 피하고 싶어서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j227",
+      "category": "nonsense",
+      "q": "푸가 염소를 무서워하는 이유는?",
+      "a": "아기 염소 여럿이 풀을 뜯고 놀아서",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j228",
+      "category": "nonsense",
+      "q": "소금, 간장, 참기름이 김밥을 죽였는데 참기름만 경찰서에 간 이유는?",
+      "a": "소금과 간장이 짜서(증거 불충분)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j229",
+      "category": "nonsense",
+      "q": "집에 갔는데 엄마가 없었다를 다른 말로 하면?",
+      "a": "마마무",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j230",
+      "category": "nonsense",
+      "q": "머리가 아프면 약을 얼마나 먹어야 할까?",
+      "a": "두 통(두통약 두 통)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j231",
+      "category": "nonsense",
+      "q": "쉽게 속는 사람들이 많이 모이는 서버는?",
+      "a": "속눈썹",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j232",
+      "category": "nonsense",
+      "q": "공부 안 하고 매일 노는 고1 학생은 1년 뒤 뭐가 될까?",
+      "a": "고2",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j234",
+      "category": "nonsense",
+      "q": "타이타닉의 구명보트에는 몇 명이 탈 수 있을까?",
+      "a": "9명(타이타닉이니까 9)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j235",
+      "category": "nonsense",
+      "q": "수박 한 통에 오천 원이면 두 통에는?",
+      "a": "게보린",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j238",
+      "category": "nonsense",
+      "q": "진짜 문제투성이인 것은?",
+      "a": "시험지",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j239",
+      "category": "nonsense",
+      "q": "항상 미안해하는 연예인은?",
+      "a": "지성(至誠)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j240",
+      "category": "nonsense",
+      "q": "광부가 가장 많은 나라는?",
+      "a": "케냐(캐냐)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j242",
+      "category": "nonsense",
+      "q": "감은 감인데 못 먹는 감을 세 개 말하면?",
+      "a": "영감, 옷감, 자신감",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j243",
+      "category": "nonsense",
+      "q": "문은 문인데 닫지 못하는 문은?",
+      "a": "소문",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j244",
+      "category": "nonsense",
+      "q": "산은 산인데 오르지 못하는 산은?",
+      "a": "계산",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j245",
+      "category": "nonsense",
+      "q": "차는 차인데 마시지 못하는 차는?",
+      "a": "기차",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j246",
+      "category": "nonsense",
+      "q": "불은 불인데 뜨겁지 않은 불은?",
+      "a": "이불",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j247",
+      "category": "nonsense",
+      "q": "다리는 다리인데 건너지 못하는 다리는?",
+      "a": "책상다리",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j248",
+      "category": "nonsense",
+      "q": "깨뜨리고도 칭찬받는 것은?",
+      "a": "신기록",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j249",
+      "category": "nonsense",
+      "q": "눈이 녹으면 뭐가 될까?",
+      "a": "눈물(봄이 아니라)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j250",
+      "category": "nonsense",
+      "q": "못을 팔아서 돈 버는 가게는?",
+      "a": "철물점",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j251",
+      "category": "nonsense",
+      "q": "물고기 중 가장 학력이 높은 물고기는?",
+      "a": "고등어",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j252",
+      "category": "nonsense",
+      "q": "프랑스에서 빵이 떨어지면?",
+      "a": "오! 바게트",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j253",
+      "category": "nonsense",
+      "q": "왕이 가장 좋아하는 음식은?",
+      "a": "킹크랩",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j254",
+      "category": "nonsense",
+      "q": "고기 먹을 때마다 따라오는 개는?",
+      "a": "이쑤시개",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j255",
+      "category": "nonsense",
+      "q": "먹으면 부자가 되는 음식은?",
+      "a": "부대찌개",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j256",
+      "category": "nonsense",
+      "q": "토끼가 강에 빠지면?",
+      "a": "깡총(깡총 뛴다)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j257",
+      "category": "nonsense",
+      "q": "가장 더러운 강은?",
+      "a": "요강",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j258",
+      "category": "nonsense",
+      "q": "밥 대신 먹는 강은?",
+      "a": "한강(찬밥·물에 만 밥)",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j259",
+      "category": "nonsense",
+      "q": "세상에서 가장 추운 바다는?",
+      "a": "썰렁해",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j260",
+      "category": "nonsense",
+      "q": "진짜 새의 이름은?",
+      "a": "참새",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j261",
+      "category": "nonsense",
+      "q": "걸어다니는 소는?",
+      "a": "워킹소",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j263",
+      "category": "nonsense",
+      "q": "세상에서 가장 야한 가수는?",
+      "a": "다비치",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j266",
+      "category": "nonsense",
+      "q": "세상에서 가장 뜨거운 전화는?",
+      "a": "화상전화",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j267",
+      "category": "nonsense",
+      "q": "추운 겨울에 가장 많이 찾는 끈은?",
+      "a": "따끈따끈",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j224",
+      "category": "nonsense",
+      "q": "매일 시험을 봐도 빵점만 맞는 이유는?",
+      "a": "매일 놀아서",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j236",
+      "category": "nonsense",
+      "q": "타이타닉이 침몰하지 않는 방법은?",
+      "a": "육지에 둔다",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j237",
+      "category": "nonsense",
+      "q": "웃긴 넌센스 퀴즈를 다 맞히면 생기는 병은?",
+      "a": "자만심",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j262",
+      "category": "nonsense",
+      "q": "세상에서 가장 슬픈 새는?",
+      "a": "지빠귀(지겨워)",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j264",
+      "category": "nonsense",
+      "q": "곰돌이 푸를 여러 마리 부르면?",
+      "a": "푸푸푸",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j265",
+      "category": "nonsense",
+      "q": "감기가 정색하면?",
+      "a": "감기 조심",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j268",
+      "category": "nonsense",
+      "q": "설탕이 죽으면?",
+      "a": "무설탕",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j269",
+      "category": "nonsense",
+      "q": "울다가 웃으면 생기는 것은? (엉덩이 말고)",
+      "a": "눈물자국",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j303",
+      "category": "wordplay",
+      "q": "서울이 추운 걸 다섯 글자로 표현하면?",
+      "a": "서울시립대",
+      "popularity": 1,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j301",
+      "category": "wordplay",
+      "q": "동생이 형을 매우 잘 따르는 걸 3글자로 하면?",
+      "a": "형광펜",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j302",
+      "category": "wordplay",
+      "q": "울다가 울음이 그친 사람을 다섯 글자로 줄이면?",
+      "a": "아까운사람",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j306",
+      "category": "wordplay",
+      "q": "개가 사람을 가르치는 것을 4글자로 하면?",
+      "a": "개인지도",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j307",
+      "category": "wordplay",
+      "q": "오줌을 잘 싸는 사람을 오줌싸개라 한다. 빨리 잘 싸는 사람은?",
+      "a": "잽싸게",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j309",
+      "category": "wordplay",
+      "q": "[12345678]을 네 글자로 줄이면?",
+      "a": "영구 없다",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j310",
+      "category": "wordplay",
+      "q": "일취월장을 풀어 쓰면?",
+      "a": "일찍 취업하고 월급 모아 장가가자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j311",
+      "category": "wordplay",
+      "q": "우등생을 풀어 쓰면?",
+      "a": "우겨서 등수를 올린 학생",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j312",
+      "category": "wordplay",
+      "q": "이혼을 풀어 쓰면?",
+      "a": "이제 자유로운 혼자",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j313",
+      "category": "wordplay",
+      "q": "의사를 풀어 쓰면?",
+      "a": "의리의 사나이",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j314",
+      "category": "wordplay",
+      "q": "교사를 풀어 쓰면?",
+      "a": "공부해서 남 주는 사람",
+      "popularity": 2,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j315",
+      "category": "wordplay",
+      "q": "얼죽아를 풀어 쓰면?",
+      "a": "얼어 죽어도 아이스",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j316",
+      "category": "wordplay",
+      "q": "TMI를 아재 버전으로 풀면?",
+      "a": "투 머치 인포메이션, 즉 부장님 말씀",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j317",
+      "category": "wordplay",
+      "q": "갓생을 두 글자로 줄이면?",
+      "a": "갓생(줄일 수 없음, 이미 두 글자)",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j318",
+      "category": "wordplay",
+      "q": "댕댕이를 세 글자로 다시 쓰면?",
+      "a": "멍멍이",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j319",
+      "category": "wordplay",
+      "q": "억텐을 풀어 쓰면?",
+      "a": "억지로 텐션 올리기",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j320",
+      "category": "wordplay",
+      "q": "복세편살을 풀어 쓰면?",
+      "a": "복잡한 세상 편하게 살자",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j325",
+      "category": "wordplay",
+      "q": "핑프를 풀어 쓰면?",
+      "a": "핑거 프린세스, 손가락 까딱 안 하는 사람",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j326",
+      "category": "wordplay",
+      "q": "만반잘부를 풀어 쓰면?",
+      "a": "만나서 반가워 잘 부탁해",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    },
+    {
+      "id": "j327",
+      "category": "wordplay",
+      "q": "스불재를 풀어 쓰면?",
+      "a": "스스로 불러온 재앙",
+      "popularity": 3,
+      "dateAdded": "2026-08-10",
+      "batch": 0
+    }
+  ]
+}
