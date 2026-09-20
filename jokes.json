@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-06T12:38:36Z",
+  "version": "2026-09-20T05:54:54Z",
   "categories": [
     {
       "id": "ajae",
@@ -830,15 +830,6 @@
       "batch": 0
     },
     {
-      "id": "j088",
-      "category": "ajae",
-      "q": "택시기사가 가장 좋아하는 동물은?",
-      "a": "호랑이",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j089",
       "category": "ajae",
       "q": "계속 거짓말을 하는 사람은?",
@@ -1235,15 +1226,6 @@
       "batch": 0
     },
     {
-      "id": "j139",
-      "category": "ajae",
-      "q": "인도는 몇 시일까?",
-      "a": "네시(비둘기 시늉)",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j140",
       "category": "ajae",
       "q": "아빠가 두 명, 엄마가 한 명이면?",
@@ -1433,15 +1415,6 @@
       "batch": 0
     },
     {
-      "id": "j164",
-      "category": "ajae",
-      "q": "숫자 5가 가장 싫어하는 건물은?",
-      "a": "오페라하우스",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j165",
       "category": "ajae",
       "q": "치아가 예쁜 연예인은?",
@@ -1464,15 +1437,6 @@
       "category": "ajae",
       "q": "어린 물고기를 두 글자로 하면?",
       "a": "영어",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j168",
-      "category": "ajae",
-      "q": "입이 S자로 되어있으면?",
-      "a": "EBS",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
