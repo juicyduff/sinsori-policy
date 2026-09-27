@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20T05:54:54Z",
+  "version": "2026-09-27T12:06:57Z",
   "categories": [
     {
       "id": "ajae",
@@ -3132,6 +3132,375 @@
       "popularity": 3,
       "dateAdded": "2026-09-06",
       "batch": 1
+    },
+    {
+      "id": "j368",
+      "category": "ajae",
+      "q": "문어가 아르바이트를 여러 개 하면?",
+      "a": "문어발 알바",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j369",
+      "category": "ajae",
+      "q": "고등어가 반에서 일등을 하면?",
+      "a": "등푸른 일등생",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j370",
+      "category": "ajae",
+      "q": "김밥이 헬스를 하면?",
+      "a": "옆구리 터짐 방지",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j371",
+      "category": "nonsense",
+      "q": "안경이 가장 싫어하는 날씨는?",
+      "a": "안개 낀 날",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j372",
+      "category": "bujang",
+      "q": "은행원들이 가장 좋아하는 라면은?",
+      "a": "부자되면",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j373",
+      "category": "bujang",
+      "q": "다이어트를 결심한 부장님이 가장 무서워하는 요일은?",
+      "a": "회식 있는 요일",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j374",
+      "category": "wordplay",
+      "q": "퇴근 후에 아무것도 하기 싫은 상태를 세 글자로 줄이면?",
+      "a": "퇴근각",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j375",
+      "category": "wordplay",
+      "q": "지각을 밥 먹듯이 하는 사람을 네 글자로 줄이면?",
+      "a": "지각대장",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j376",
+      "category": "ajae",
+      "q": "자판기가 스트레스를 받으면 어떻게 될까?",
+      "a": "거스름돈부터 와르르 쏟아낸다",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j377",
+      "category": "ajae",
+      "q": "냉장고가 화가 나면 하는 말은?",
+      "a": "문 좀 그만 열었다 닫았다 해라",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j378",
+      "category": "ajae",
+      "q": "은행나무가 가장 좋아하는 계절은?",
+      "a": "이자가 잘 붙는 가을",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j379",
+      "category": "ajae",
+      "q": "목수가 연애할 때 제일 조심하는 것은?",
+      "a": "마음에 못을 박는 말",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j380",
+      "category": "nonsense",
+      "q": "월요일 아침에 가장 빨리 사라지는 것은?",
+      "a": "주말의 여운",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j381",
+      "category": "bujang",
+      "q": "부장님이 회식 자리에서 가장 많이 하는 질문은?",
+      "a": "한 잔 더 할 수 있지?",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j382",
+      "category": "bujang",
+      "q": "부장님 넥타이가 매일 조금씩 느슨해지는 이유는?",
+      "a": "퇴근 시간이 다가올수록 마음도 풀려서",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j383",
+      "category": "wordplay",
+      "q": "눈치를 풀어 쓰면?",
+      "a": "눈으로 먼저 알아채는 재치",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j384",
+      "category": "ajae",
+      "q": "양파가 자기소개할 때 하는 말은?",
+      "a": "까도 까도 저예요",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j385",
+      "category": "ajae",
+      "q": "빨래가 가장 좋아하는 계절은?",
+      "a": "잘 마르는 가을",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j386",
+      "category": "ajae",
+      "q": "고양이가 넘어지면 내는 소리는?",
+      "a": "아야옹",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j387",
+      "category": "nonsense",
+      "q": "냉장고가 가장 잘하는 거짓말은?",
+      "a": "저 안에 아무것도 없어요",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j388",
+      "category": "nonsense",
+      "q": "눈사람이 가장 무서워하는 계절은?",
+      "a": "여름",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j389",
+      "category": "bujang",
+      "q": "부장님이 가장 좋아하는 야식은?",
+      "a": "야근",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j390",
+      "category": "bujang",
+      "q": "부장님 지갑에 가장 많이 들어있는 것은?",
+      "a": "옛날 이야기",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j391",
+      "category": "wordplay",
+      "q": "야근을 풀어 쓰면?",
+      "a": "야금야금 늘어나는 근무시간",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j392",
+      "category": "nonsense",
+      "q": "가을 열매 중에서 제일 늦게까지 안 자는 것은?",
+      "a": "밤",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j393",
+      "category": "nonsense",
+      "q": "겨울에 곰이 들어가 살기도 하고, 사람들이 즐겨 먹기도 하는 것은?",
+      "a": "굴",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j394",
+      "category": "nonsense",
+      "q": "사람 몸에도 있고 방 안에도 켜져 있는 것은?",
+      "a": "등",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j395",
+      "category": "ajae",
+      "q": "이름이 '말'인데 평생 말을 못 하는 동물은?",
+      "a": "말",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j396",
+      "category": "ajae",
+      "q": "다이어트를 제일 못 하는 과일은?",
+      "a": "배",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j397",
+      "category": "bujang",
+      "q": "받으면 기분 좋고 다치면 아픈 한 글자는?",
+      "a": "상",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j398",
+      "category": "bujang",
+      "q": "뜨거운 국에서도 나고, 김밥을 쌀 때도 쓰는 것은?",
+      "a": "김",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j399",
+      "category": "ajae",
+      "q": "오이가 화가 나면 뭐라고 소리칠까?",
+      "a": "오이씨",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j400",
+      "category": "ajae",
+      "q": "도토리가 취업하면 갖는 특기는?",
+      "a": "묵묵히 일하기",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j401",
+      "category": "ajae",
+      "q": "가위가 차리는 미용실 이름은?",
+      "a": "싹둑헤어",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j402",
+      "category": "ajae",
+      "q": "천둥이 시험에서 떨어지면?",
+      "a": "낙뢰",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j403",
+      "category": "ajae",
+      "q": "죄 없이 매일 혼나는 곤충은?",
+      "a": "벌",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j404",
+      "category": "ajae",
+      "q": "달걀이 이력서에 적는 좌우명은?",
+      "a": "노른자 위주로 산다",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j405",
+      "category": "nonsense",
+      "q": "매일 여닫아도 대답이 없는 것은?",
+      "a": "문",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j406",
+      "category": "nonsense",
+      "q": "한 달 내내 표정이 바뀌는 것은?",
+      "a": "달",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j407",
+      "category": "bujang",
+      "q": "축구선수가 사무실에서 제일 잘하는 업무는?",
+      "a": "공적인 일",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
+    },
+    {
+      "id": "j408",
+      "category": "wordplay",
+      "q": "'전혀 예상하지 못한 일'을 네 글자로 줄이면?",
+      "a": "아닌밤중",
+      "popularity": 3,
+      "dateAdded": "2026-09-27",
+      "batch": 2
     }
   ]
 }
