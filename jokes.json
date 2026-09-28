@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-27T12:06:57Z",
+  "version": "2026-09-28T03:18:28Z",
   "categories": [
     {
       "id": "ajae",
@@ -317,15 +317,6 @@
       "batch": 0
     },
     {
-      "id": "j028",
-      "category": "ajae",
-      "q": "청바지를 돋보이게 하는 걸음걸이는?",
-      "a": "진주목걸이",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j029",
       "category": "ajae",
       "q": "무가 자기소개할 때 하는 말은?",
@@ -339,15 +330,6 @@
       "category": "ajae",
       "q": "천하장사가 타고 다니는 차는?",
       "a": "으랏차차",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j031",
-      "category": "ajae",
-      "q": "얼음이 죽으면?",
-      "a": "다이빙",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -411,15 +393,6 @@
       "category": "ajae",
       "q": "결혼한 복숭아를 네 글자로 표현하면?",
       "a": "웨딩피치",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j039",
-      "category": "ajae",
-      "q": "깨가 죽으면?",
-      "a": "주근깨",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -785,15 +758,6 @@
       "batch": 0
     },
     {
-      "id": "j083",
-      "category": "ajae",
-      "q": "고추잠자리를 두 글자로 줄이면?",
-      "a": "팬티",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j084",
       "category": "ajae",
       "q": "스님들이 걱정하지 않아도 되는 병은?",
@@ -866,28 +830,10 @@
       "batch": 0
     },
     {
-      "id": "j096",
-      "category": "ajae",
-      "q": "보내기 싫으면?",
-      "a": "가위나 바위를 낸다",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j097",
       "category": "ajae",
       "q": "새로 나온 욕은?",
       "a": "뉴욕",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j098",
-      "category": "ajae",
-      "q": "소가 상경하면?",
-      "a": "소설가",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -914,7 +860,7 @@
       "id": "j101",
       "category": "ajae",
       "q": "석유가 우리나라까지 도착하는 시간은?",
-      "a": "오일(5일)",
+      "a": "오일",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -1001,15 +947,6 @@
       "batch": 0
     },
     {
-      "id": "j112",
-      "category": "ajae",
-      "q": "도둑이 훔친 돈을 세 글자로?",
-      "a": "슬그머니",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j113",
       "category": "ajae",
       "q": "떡은 떡인데 못 먹는 떡은?",
@@ -1023,15 +960,6 @@
       "category": "ajae",
       "q": "감은 감인데 못 먹는 감은?",
       "a": "영감",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j115",
-      "category": "ajae",
-      "q": "지진났을 때 절대 부르면 안 되는 노래는?",
-      "a": "동요",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -1103,7 +1031,7 @@
       "id": "j123",
       "category": "ajae",
       "q": "학생들이 싫어하는 피자는?",
-      "a": "책피자(책 피자)",
+      "a": "책피자",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -1586,15 +1514,6 @@
       "batch": 0
     },
     {
-      "id": "j187",
-      "category": "ajae",
-      "q": "애처가와 공처가의 공통점은?",
-      "a": "둘 다 남자",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j188",
       "category": "ajae",
       "q": "소변과 대변 중 어느 것이 먼저 나오나?",
@@ -1662,15 +1581,6 @@
       "category": "ajae",
       "q": "고양이가 놀라면?",
       "a": "캣츠",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j092",
-      "category": "ajae",
-      "q": "63빌딩보다 높은 사람은?",
-      "a": "고층빌딩 관리인",
       "popularity": 3,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -1829,181 +1739,10 @@
       "batch": 0
     },
     {
-      "id": "j285",
-      "category": "bujang",
-      "q": "회식 자리에서 부장님이 가장 좋아하는 노래방 곡은?",
-      "a": "지못미(반전 없음, 그냥 정말 자주 부름)",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j286",
-      "category": "bujang",
-      "q": "월급날 부장님이 가장 자주 하는 말은?",
-      "a": "밥은 먹고 다니냐",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j287",
-      "category": "bujang",
-      "q": "회의 시작 전 부장님이 꼭 하는 개그는?",
-      "a": "오늘 회의, 회 좋아하나?",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j288",
-      "category": "bujang",
-      "q": "야근하는 직원에게 부장님이 하는 위로는?",
-      "a": "나 때는 더했어",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j289",
-      "category": "bujang",
-      "q": "부장님이 회식에서 2차를 부르는 다른 말은?",
-      "a": "가볍게 한 잔 더",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j290",
       "category": "bujang",
       "q": "신입사원이 가장 무서워하는 사자성어는?",
       "a": "부장호출",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j291",
-      "category": "bujang",
-      "q": "명절에 친척이 제일 많이 하는 질문 두 글자는?",
-      "a": "취업",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j292",
-      "category": "bujang",
-      "q": "설날에 세뱃돈 대신 주는 아재개그의 이름은?",
-      "a": "덕담개그",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j293",
-      "category": "bujang",
-      "q": "고스톱 칠 때 부장님이 가장 좋아하는 패는?",
-      "a": "월급날 패",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j294",
-      "category": "bujang",
-      "q": "제사상에 아재개그를 올리면?",
-      "a": "조상님도 피식",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j295",
-      "category": "bujang",
-      "q": "소주 한 잔에 아재개그 하나, 이걸 세 글자로 하면?",
-      "a": "술안주",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j296",
-      "category": "bujang",
-      "q": "회식 2차 노래방에서 부장님 18번은?",
-      "a": "부장님 18번(정말 그 노래)",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j297",
-      "category": "bujang",
-      "q": "퇴근 시간에 부장님이 갑자기 하는 말은?",
-      "a": "간단히 한잔 어때?",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j298",
-      "category": "bujang",
-      "q": "명절 잔소리를 미리 막는 방법은?",
-      "a": "아재개그로 선빵",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j299",
-      "category": "bujang",
-      "q": "부장님이 신입사원에게 던지는 첫 개그의 이름은?",
-      "a": "국룰개그",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j300",
-      "category": "bujang",
-      "q": "송년회에서 가장 많이 나오는 건배사는?",
-      "a": "위하여(그리고 아재개그)",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j321",
-      "category": "bujang",
-      "q": "회식날 부장님이 정시 퇴근하면?",
-      "a": "다들 의심한다",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j322",
-      "category": "bujang",
-      "q": "부장님 개그에 안 웃으면 생기는 일은?",
-      "a": "찍힌다",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j323",
-      "category": "bujang",
-      "q": "명절에 큰집 가는 길이 막히는 걸 세 글자로?",
-      "a": "민족대이동",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j324",
-      "category": "bujang",
-      "q": "연봉협상 자리에서 부장님이 자주 하는 말은?",
-      "a": "다음에 잘하면 올려줄게",
       "popularity": 3,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2171,15 +1910,6 @@
       "batch": 0
     },
     {
-      "id": "j219",
-      "category": "nonsense",
-      "q": "우리나라까지 석유가 도착하는데 걸리는 시간은?",
-      "a": "5일(오일)",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j220",
       "category": "nonsense",
       "q": "형제 중에 곱슬머리가 있다를 다른 말로 하면?",
@@ -2228,7 +1958,7 @@
       "id": "j228",
       "category": "nonsense",
       "q": "소금, 간장, 참기름이 김밥을 죽였는데 참기름만 경찰서에 간 이유는?",
-      "a": "소금과 간장이 짜서(증거 불충분)",
+      "a": "소금과 간장이 짜서",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2246,7 +1976,7 @@
       "id": "j230",
       "category": "nonsense",
       "q": "머리가 아프면 약을 얼마나 먹어야 할까?",
-      "a": "두 통(두통약 두 통)",
+      "a": "두 통",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2273,7 +2003,7 @@
       "id": "j234",
       "category": "nonsense",
       "q": "타이타닉의 구명보트에는 몇 명이 탈 수 있을까?",
-      "a": "9명(타이타닉이니까 9)",
+      "a": "9명",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2309,7 +2039,7 @@
       "id": "j240",
       "category": "nonsense",
       "q": "광부가 가장 많은 나라는?",
-      "a": "케냐(캐냐)",
+      "a": "케냐",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2378,15 +2108,6 @@
       "batch": 0
     },
     {
-      "id": "j249",
-      "category": "nonsense",
-      "q": "눈이 녹으면 뭐가 될까?",
-      "a": "눈물(봄이 아니라)",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j250",
       "category": "nonsense",
       "q": "못을 팔아서 돈 버는 가게는?",
@@ -2441,28 +2162,10 @@
       "batch": 0
     },
     {
-      "id": "j256",
-      "category": "nonsense",
-      "q": "토끼가 강에 빠지면?",
-      "a": "깡총(깡총 뛴다)",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j257",
       "category": "nonsense",
       "q": "가장 더러운 강은?",
       "a": "요강",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j258",
-      "category": "nonsense",
-      "q": "밥 대신 먹는 강은?",
-      "a": "한강(찬밥·물에 만 밥)",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2518,78 +2221,6 @@
       "q": "추운 겨울에 가장 많이 찾는 끈은?",
       "a": "따끈따끈",
       "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j224",
-      "category": "nonsense",
-      "q": "매일 시험을 봐도 빵점만 맞는 이유는?",
-      "a": "매일 놀아서",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j236",
-      "category": "nonsense",
-      "q": "타이타닉이 침몰하지 않는 방법은?",
-      "a": "육지에 둔다",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j237",
-      "category": "nonsense",
-      "q": "웃긴 넌센스 퀴즈를 다 맞히면 생기는 병은?",
-      "a": "자만심",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j262",
-      "category": "nonsense",
-      "q": "세상에서 가장 슬픈 새는?",
-      "a": "지빠귀(지겨워)",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j264",
-      "category": "nonsense",
-      "q": "곰돌이 푸를 여러 마리 부르면?",
-      "a": "푸푸푸",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j265",
-      "category": "nonsense",
-      "q": "감기가 정색하면?",
-      "a": "감기 조심",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j268",
-      "category": "nonsense",
-      "q": "설탕이 죽으면?",
-      "a": "무설탕",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j269",
-      "category": "nonsense",
-      "q": "울다가 웃으면 생기는 것은? (엉덩이 말고)",
-      "a": "눈물자국",
-      "popularity": 3,
       "dateAdded": "2026-08-10",
       "batch": 0
     },
@@ -2684,96 +2315,6 @@
       "batch": 0
     },
     {
-      "id": "j314",
-      "category": "wordplay",
-      "q": "교사를 풀어 쓰면?",
-      "a": "공부해서 남 주는 사람",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j315",
-      "category": "wordplay",
-      "q": "얼죽아를 풀어 쓰면?",
-      "a": "얼어 죽어도 아이스",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j316",
-      "category": "wordplay",
-      "q": "TMI를 아재 버전으로 풀면?",
-      "a": "투 머치 인포메이션, 즉 부장님 말씀",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j317",
-      "category": "wordplay",
-      "q": "갓생을 두 글자로 줄이면?",
-      "a": "갓생(줄일 수 없음, 이미 두 글자)",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j318",
-      "category": "wordplay",
-      "q": "댕댕이를 세 글자로 다시 쓰면?",
-      "a": "멍멍이",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j319",
-      "category": "wordplay",
-      "q": "억텐을 풀어 쓰면?",
-      "a": "억지로 텐션 올리기",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j320",
-      "category": "wordplay",
-      "q": "복세편살을 풀어 쓰면?",
-      "a": "복잡한 세상 편하게 살자",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j325",
-      "category": "wordplay",
-      "q": "핑프를 풀어 쓰면?",
-      "a": "핑거 프린세스, 손가락 까딱 안 하는 사람",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j326",
-      "category": "wordplay",
-      "q": "만반잘부를 풀어 쓰면?",
-      "a": "만나서 반가워 잘 부탁해",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j327",
-      "category": "wordplay",
-      "q": "스불재를 풀어 쓰면?",
-      "a": "스스로 불러온 재앙",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j328",
       "category": "ajae",
       "q": "왕이 화나면?",
@@ -2864,15 +2405,6 @@
       "batch": 1
     },
     {
-      "id": "j338",
-      "category": "ajae",
-      "q": "토마토를 거꾸로 읽으면?",
-      "a": "토마토",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
       "id": "j339",
       "category": "ajae",
       "q": "곰이 깜짝 놀라면?",
@@ -2921,7 +2453,7 @@
       "id": "j344",
       "category": "nonsense",
       "q": "세상에서 가장 조용한 나라는?",
-      "a": "쉬~덴(스웨덴)",
+      "a": "스웨덴",
       "popularity": 3,
       "dateAdded": "2026-09-06",
       "batch": 1
@@ -3044,46 +2576,10 @@
       "batch": 1
     },
     {
-      "id": "j358",
-      "category": "bujang",
-      "q": "부장님이 결재 서류에 가장 많이 쓰는 두 글자는?",
-      "a": "다시",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
       "id": "j359",
       "category": "bujang",
       "q": "회식 3차를 다른 말로?",
       "a": "집에 못 가는 차",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j360",
-      "category": "bujang",
-      "q": "부장님 개그의 유통기한은?",
-      "a": "없다, 계속 재탕",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j361",
-      "category": "bujang",
-      "q": "명절 음식 중 가장 무서운 음식은?",
-      "a": "잔소리",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j362",
-      "category": "wordplay",
-      "q": "아재개그를 풀어 쓰면?",
-      "a": "아무리 재미없어도 개의치 않고 그냥 한다",
       "popularity": 3,
       "dateAdded": "2026-09-06",
       "batch": 1
@@ -3120,15 +2616,6 @@
       "category": "wordplay",
       "q": "주말을 풀어 쓰면?",
       "a": "주로 말만 하고 끝나는 계획",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j367",
-      "category": "wordplay",
-      "q": "ㅈㄱㄴ을 풀어 쓰면?",
-      "a": "제목이 곧 내용",
       "popularity": 3,
       "dateAdded": "2026-09-06",
       "batch": 1
@@ -3179,51 +2666,6 @@
       "batch": 2
     },
     {
-      "id": "j373",
-      "category": "bujang",
-      "q": "다이어트를 결심한 부장님이 가장 무서워하는 요일은?",
-      "a": "회식 있는 요일",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j374",
-      "category": "wordplay",
-      "q": "퇴근 후에 아무것도 하기 싫은 상태를 세 글자로 줄이면?",
-      "a": "퇴근각",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j375",
-      "category": "wordplay",
-      "q": "지각을 밥 먹듯이 하는 사람을 네 글자로 줄이면?",
-      "a": "지각대장",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j376",
-      "category": "ajae",
-      "q": "자판기가 스트레스를 받으면 어떻게 될까?",
-      "a": "거스름돈부터 와르르 쏟아낸다",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j377",
-      "category": "ajae",
-      "q": "냉장고가 화가 나면 하는 말은?",
-      "a": "문 좀 그만 열었다 닫았다 해라",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j378",
       "category": "ajae",
       "q": "은행나무가 가장 좋아하는 계절은?",
@@ -3237,33 +2679,6 @@
       "category": "ajae",
       "q": "목수가 연애할 때 제일 조심하는 것은?",
       "a": "마음에 못을 박는 말",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j380",
-      "category": "nonsense",
-      "q": "월요일 아침에 가장 빨리 사라지는 것은?",
-      "a": "주말의 여운",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j381",
-      "category": "bujang",
-      "q": "부장님이 회식 자리에서 가장 많이 하는 질문은?",
-      "a": "한 잔 더 할 수 있지?",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j382",
-      "category": "bujang",
-      "q": "부장님 넥타이가 매일 조금씩 느슨해지는 이유는?",
-      "a": "퇴근 시간이 다가올수록 마음도 풀려서",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
@@ -3287,28 +2702,10 @@
       "batch": 2
     },
     {
-      "id": "j385",
-      "category": "ajae",
-      "q": "빨래가 가장 좋아하는 계절은?",
-      "a": "잘 마르는 가을",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j386",
       "category": "ajae",
       "q": "고양이가 넘어지면 내는 소리는?",
       "a": "아야옹",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j387",
-      "category": "nonsense",
-      "q": "냉장고가 가장 잘하는 거짓말은?",
-      "a": "저 안에 아무것도 없어요",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
@@ -3327,15 +2724,6 @@
       "category": "bujang",
       "q": "부장님이 가장 좋아하는 야식은?",
       "a": "야근",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j390",
-      "category": "bujang",
-      "q": "부장님 지갑에 가장 많이 들어있는 것은?",
-      "a": "옛날 이야기",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
@@ -3489,15 +2877,6 @@
       "category": "bujang",
       "q": "축구선수가 사무실에서 제일 잘하는 업무는?",
       "a": "공적인 일",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j408",
-      "category": "wordplay",
-      "q": "'전혀 예상하지 못한 일'을 네 글자로 줄이면?",
-      "a": "아닌밤중",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
