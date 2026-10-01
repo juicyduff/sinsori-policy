@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-28T08:41:45Z",
+  "version": "2026-09-30T18:19:24Z",
   "categories": [
     {
       "id": "ajae",
@@ -33,15 +33,6 @@
       "category": "ajae",
       "q": "왕이 넘어지면?",
       "a": "킹콩",
-      "popularity": 1,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j003",
-      "category": "ajae",
-      "q": "딸기가 직장에서 잘리면?",
-      "a": "딸기시럽",
       "popularity": 1,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -168,15 +159,6 @@
       "category": "ajae",
       "q": "무가 눈물을 흘리면?",
       "a": "무뚝뚝",
-      "popularity": 1,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j018",
-      "category": "ajae",
-      "q": "빌게이츠는 노래방에서 노래를 어떻게 부를까?",
-      "a": "마이크로 소프트하게",
       "popularity": 1,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -641,15 +623,6 @@
       "batch": 0
     },
     {
-      "id": "j071",
-      "category": "ajae",
-      "q": "꽃가게 사장님이 가장 싫어하는 도시는?",
-      "a": "시드니",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j072",
       "category": "ajae",
       "q": "화장실에서 방금 나온 사람은?",
@@ -780,15 +753,6 @@
       "category": "ajae",
       "q": "계속 거짓말을 하는 사람은?",
       "a": "또라이",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j090",
-      "category": "ajae",
-      "q": "참기름을 못 먹는 이유는?",
-      "a": "고소공포증이 있어서",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -983,15 +947,6 @@
       "batch": 0
     },
     {
-      "id": "j120",
-      "category": "ajae",
-      "q": "짱구와 오징어의 차이점은?",
-      "a": "오징어는 말리지만 짱구는 못 말려",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j121",
       "category": "ajae",
       "q": "세상에서 가장 착한 사자는?",
@@ -1172,15 +1127,6 @@
       "batch": 0
     },
     {
-      "id": "j145",
-      "category": "ajae",
-      "q": "오래 살 것 같은 연예인은?",
-      "a": "이승기",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j147",
       "category": "ajae",
       "q": "야구 선수가 왕한테 공을 던지며 하는 말은?",
@@ -1203,15 +1149,6 @@
       "category": "ajae",
       "q": "아마존엔 누가 살까?",
       "a": "존",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j151",
-      "category": "ajae",
-      "q": "좀비는 왜 멍청할까?",
-      "a": "머리가 좀 비어서",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -1541,15 +1478,6 @@
       "batch": 0
     },
     {
-      "id": "j149",
-      "category": "ajae",
-      "q": "속눈썹이 많이 모이는 서버는?",
-      "a": "속기 쉬운 서버",
-      "popularity": 3,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j190",
       "category": "ajae",
       "q": "탤런트 최지우 말고 배우들이 기르는 개는?",
@@ -1663,15 +1591,6 @@
       "q": "사람의 몸무게가 가장 많이 나갈 때는?",
       "a": "철들 때",
       "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j290",
-      "category": "bujang",
-      "q": "신입사원이 가장 무서워하는 사자성어는?",
-      "a": "부장호출",
-      "popularity": 3,
       "dateAdded": "2026-08-10",
       "batch": 0
     },
@@ -1856,24 +1775,6 @@
       "batch": 0
     },
     {
-      "id": "j223",
-      "category": "nonsense",
-      "q": "비가 빅뱅에 안 들어간 이유는?",
-      "a": "태양을 피하고 싶어서",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j227",
-      "category": "nonsense",
-      "q": "푸가 염소를 무서워하는 이유는?",
-      "a": "아기 염소 여럿이 풀을 뜯고 놀아서",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
       "id": "j228",
       "category": "nonsense",
       "q": "소금, 간장, 참기름이 김밥을 죽였는데 참기름만 경찰서에 간 이유는?",
@@ -1959,15 +1860,6 @@
       "category": "nonsense",
       "q": "광부가 가장 많은 나라는?",
       "a": "케냐",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j242",
-      "category": "nonsense",
-      "q": "감은 감인데 못 먹는 감을 세 개 말하면?",
-      "a": "영감, 옷감, 자신감",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2166,33 +2058,6 @@
       "category": "wordplay",
       "q": "[12345678]을 네 글자로 줄이면?",
       "a": "영구 없다",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j310",
-      "category": "wordplay",
-      "q": "일취월장을 풀어 쓰면?",
-      "a": "일찍 취업하고 월급 모아 장가가자",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j311",
-      "category": "wordplay",
-      "q": "우등생을 풀어 쓰면?",
-      "a": "우겨서 등수를 올린 학생",
-      "popularity": 2,
-      "dateAdded": "2026-08-10",
-      "batch": 0
-    },
-    {
-      "id": "j312",
-      "category": "wordplay",
-      "q": "이혼을 풀어 쓰면?",
-      "a": "이제 자유로운 혼자",
       "popularity": 2,
       "dateAdded": "2026-08-10",
       "batch": 0
@@ -2432,78 +2297,6 @@
       "batch": 1
     },
     {
-      "id": "j356",
-      "category": "bujang",
-      "q": "부장님이 가장 좋아하는 회는?",
-      "a": "회식",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j357",
-      "category": "bujang",
-      "q": "부장님이 화장실에서 하는 말은?",
-      "a": "큰일 났다",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j359",
-      "category": "bujang",
-      "q": "회식 3차를 다른 말로?",
-      "a": "집에 못 가는 차",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j363",
-      "category": "wordplay",
-      "q": "월급을 풀어 쓰면?",
-      "a": "월요일부터 급하게 사라지는 돈",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j364",
-      "category": "wordplay",
-      "q": "다이어트를 풀어 쓰면?",
-      "a": "다음 주부터 이어서 하는 트레이닝",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j365",
-      "category": "wordplay",
-      "q": "회식을 풀어 쓰면?",
-      "a": "회사가 식사를 빙자한 야근",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j366",
-      "category": "wordplay",
-      "q": "주말을 풀어 쓰면?",
-      "a": "주로 말만 하고 끝나는 계획",
-      "popularity": 3,
-      "dateAdded": "2026-09-06",
-      "batch": 1
-    },
-    {
-      "id": "j368",
-      "category": "ajae",
-      "q": "문어가 아르바이트를 여러 개 하면?",
-      "a": "문어발 알바",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j369",
       "category": "ajae",
       "q": "고등어가 반에서 일등을 하면?",
@@ -2531,42 +2324,6 @@
       "batch": 2
     },
     {
-      "id": "j372",
-      "category": "bujang",
-      "q": "은행원들이 가장 좋아하는 라면은?",
-      "a": "부자되면",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j378",
-      "category": "ajae",
-      "q": "은행나무가 가장 좋아하는 계절은?",
-      "a": "이자가 잘 붙는 가을",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j379",
-      "category": "ajae",
-      "q": "목수가 연애할 때 제일 조심하는 것은?",
-      "a": "마음에 못을 박는 말",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j383",
-      "category": "wordplay",
-      "q": "눈치를 풀어 쓰면?",
-      "a": "눈으로 먼저 알아채는 재치",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j384",
       "category": "ajae",
       "q": "양파가 자기소개할 때 하는 말은?",
@@ -2589,24 +2346,6 @@
       "category": "nonsense",
       "q": "눈사람이 가장 무서워하는 계절은?",
       "a": "여름",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j389",
-      "category": "bujang",
-      "q": "부장님이 가장 좋아하는 야식은?",
-      "a": "야근",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j391",
-      "category": "wordplay",
-      "q": "야근을 풀어 쓰면?",
-      "a": "야금야금 늘어나는 근무시간",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
@@ -2684,15 +2423,6 @@
       "batch": 2
     },
     {
-      "id": "j400",
-      "category": "ajae",
-      "q": "도토리가 취업하면 갖는 특기는?",
-      "a": "묵묵히 일하기",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j401",
       "category": "ajae",
       "q": "가위가 차리는 미용실 이름은?",
@@ -2720,15 +2450,6 @@
       "batch": 2
     },
     {
-      "id": "j404",
-      "category": "ajae",
-      "q": "달걀이 이력서에 적는 좌우명은?",
-      "a": "노른자 위주로 산다",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
       "id": "j405",
       "category": "nonsense",
       "q": "매일 여닫아도 대답이 없는 것은?",
@@ -2742,15 +2463,6 @@
       "category": "nonsense",
       "q": "한 달 내내 표정이 바뀌는 것은?",
       "a": "달",
-      "popularity": 3,
-      "dateAdded": "2026-09-27",
-      "batch": 2
-    },
-    {
-      "id": "j407",
-      "category": "bujang",
-      "q": "축구선수가 사무실에서 제일 잘하는 업무는?",
-      "a": "공적인 일",
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
