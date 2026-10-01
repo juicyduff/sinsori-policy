@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-30T18:19:24Z",
+  "version": "2026-10-01T15:25:41Z",
   "categories": [
     {
       "id": "ajae",
@@ -2466,6 +2466,150 @@
       "popularity": 3,
       "dateAdded": "2026-09-27",
       "batch": 2
+    },
+    {
+      "id": "j409",
+      "category": "ajae",
+      "q": "고래가 크게 소리를 지르면?",
+      "a": "고래고래",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j410",
+      "category": "ajae",
+      "q": "하마가 큰일 날 뻔했을 때 하는 말은?",
+      "a": "하마터면",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j411",
+      "category": "ajae",
+      "q": "소가 한 마리만 남으면?",
+      "a": "한우",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j412",
+      "category": "ajae",
+      "q": "개 여섯 마리가 장에 가면?",
+      "a": "육개장",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j413",
+      "category": "ajae",
+      "q": "대충대충 끓이는 탕은?",
+      "a": "설렁탕",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j414",
+      "category": "ajae",
+      "q": "아는 건 없는데 달콤한 반찬은?",
+      "a": "단무지",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j415",
+      "category": "nonsense",
+      "q": "거꾸로 읽어도 똑같은 나라는?",
+      "a": "스위스",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j416",
+      "category": "nonsense",
+      "q": "거꾸로 읽어도 똑같은 대륙은?",
+      "a": "아시아",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j417",
+      "category": "nonsense",
+      "q": "거꾸로 읽어도 똑같은, 하늘에서 떨어지는 것은?",
+      "a": "별똥별",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j418",
+      "category": "nonsense",
+      "q": "아무리 길어도 짧게 느껴지는 것은?",
+      "a": "방학",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j419",
+      "category": "nonsense",
+      "q": "마실 수도 있고, 탈 수도 있고, 몸이 시릴 때도 쓰는 말인 이 한 글자는 무엇일까?",
+      "a": "차",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j420",
+      "category": "nonsense",
+      "q": "사람 얼굴에 원래 두 개씩 붙어 있고, 겨울이 되면 하늘에서도 내리는 이 한 글자는 무엇일까?",
+      "a": "눈",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j421",
+      "category": "nonsense",
+      "q": "세상에서 가장 빠른 개는?",
+      "a": "번개",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j422",
+      "category": "wordplay",
+      "q": "문어가 학교에 가면 쓰는 문체는?",
+      "a": "문어체",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j423",
+      "category": "wordplay",
+      "q": "곰이 깊은 생각에 빠지면?",
+      "a": "곰곰이",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
+    },
+    {
+      "id": "j424",
+      "category": "ajae",
+      "q": "소가 길을 잃으면?",
+      "a": "우왕좌왕",
+      "popularity": 3,
+      "dateAdded": "2026-10-02",
+      "batch": 3
     }
   ]
 }
